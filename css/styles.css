@@ -1,0 +1,33 @@
+p {
+  font-family: serif;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 75px;
+  margin-right: auto;
+}
+
+.profile {
+  width: 23%;
+  float: left;
+  padding: 50px;
+  border: solid rgb(87, 60, 60);
+  border-width: 30px;
+  background-color:plum;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-sizing: border-box;
+}
+
+
+.profile p {
+  font-style:italic;
+  text-align: left;
+}
+
+img {
+  max-width: 200px;
+}
